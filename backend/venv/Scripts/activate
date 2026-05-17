@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\GH\OneDrive\Desktop\resume analyzer\backend\venv"
+VIRTUAL_ENV="D:\pro projects\resume analyzer\backend\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

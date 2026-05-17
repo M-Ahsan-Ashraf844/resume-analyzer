@@ -1,4 +1,4 @@
-#!c:\users\gh\onedrive\desktop\resume analyzer\backend\venv\scripts\python.exe
+#!d:\pro projects\resume analyzer\backend\venv\scripts\python.exe
 '''
 The MIT License (MIT)
 
