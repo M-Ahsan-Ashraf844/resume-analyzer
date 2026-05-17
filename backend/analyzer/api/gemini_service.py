@@ -4,7 +4,7 @@ from django.conf import settings
 genai.configure(api_key=settings.GEMINI_API_KEY)
 model=genai.GenerativeModel('gemini-2.5-flash')
 
-print("API KEY:", settings.GEMINI_API_KEY)
+# print("API KEY:", settings.GEMINI_API_KEY)
 
 def analyze_resume(resume_text,job_description):
     prompt = f"""
